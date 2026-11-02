@@ -22,8 +22,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "my-gallery-db",
-      "database_id": "b3e95f23-1722-4989-9216-268f508dc51e",
+      "database_name": "exif-gallery-nuxt",
+      "database_id": "d9e08a07-5550-423e-b003-6f5abc0c0dbb",
       "migrations_dir": "server/db/migrations/sqlite",
       "migrations_table": "_hub_migrations"
     }
